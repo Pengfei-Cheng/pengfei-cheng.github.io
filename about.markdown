@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This Pengfei Cheng is a second-year PhD student in Chemical and Biomolecular 
+Engineering at Georgia Tech.
+My research focus is around optimization theories with applications in chemical
+industries.
+I still have a hard time finding the best way to explain what I do specifically.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can find my CV [here](/assets/CV.pdf).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
